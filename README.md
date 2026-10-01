@@ -20,8 +20,7 @@ const fatemeh = {
     role: "Frontend Developer",
     focus: ["React.js", "JavaScript", "Node.js"],
     currentlyLearning: ["Backend Development", "MongoDB", "APIs"],
-    interestedIn: ["Artificial Intelligence", "Machine Learning"],
-    mindset: "Learn by building"
+   
 };
 ```
 
