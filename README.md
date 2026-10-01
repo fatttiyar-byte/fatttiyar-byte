@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm fatttiyar-byte
 
-<!--
-**fatttiyar-byte/fatttiyar-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications with **JavaScript**, **TypeScript**, **Node.js**, and **React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **Frontend**: React, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Material UI
+- 🔧 **Backend**: Node.js, Express
+- 🗄️ **Tools**: Git, GitHub, VS Code, Vite
+
+---
+
+## 🌟 Featured Projects
+
+- 📚 [**Smart Library**](https://github.com/fatttiyar-byte/Smart-Library) — React + Bootstrap + MUI + Toastify
+- 💎 [**Diamond Shop**](https://github.com/fatttiyar-byte/dimondshop) — HTML + CSS + Bootstrap + JS
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: fatttiyar@gmail.com
+- 🐙 GitHub: [@fatttiyar-byte](https://github.com/fatttiyar-byte)
+
+---
+
+⭐️ *Happy Coding!* 🚀
