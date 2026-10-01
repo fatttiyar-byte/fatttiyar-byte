@@ -104,58 +104,8 @@ A responsive e-commerce interface developed from scratch with a focus on clean l
 
 ---
 
-# 📈 Current Learning Path
 
-```text
-                    WEB DEVELOPMENT
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          FRONTEND                    BACKEND
-             │                           │
-      JavaScript / React          Node.js / Express
-             │                           │
-        UI Architecture              REST APIs
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                        MongoDB
-                           │
-                           ▼
-                  Full-Stack Development
-                           │
-                           ▼
-                Artificial Intelligence
-```
 
----
-
-# 🎯 2026 → 2027 Goals
-
-```text
-✓ Strengthen JavaScript fundamentals
-✓ Build advanced React applications
-→ Master Node.js & Express
-→ Improve database knowledge
-→ Build full-stack applications
-→ Learn software architecture
-→ Explore AI & Machine Learning
-→ Build AI-powered web applications
-```
-
----
-
-# 🧠 How I Learn
-
-I believe development is not about memorizing syntax.
-
-It's about understanding problems, building solutions, debugging mistakes, and continuously improving.
-
-> **Build. Break. Debug. Understand. Improve.**
-
-Every project I build is part of a larger journey toward becoming a stronger software developer.
-
----
 
 # 📊 GitHub Activity
 
