@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Fatemeh
 
-### Frontend Developer · React.js · JavaScript · Node.js · AI Enthusiast
+### Frontend Developer · React.js · JavaScript · Node.js 
 
 I’m a passionate developer focused on building **modern, responsive, and user-friendly web applications**.
 
-My journey started with HTML and CSS and evolved into JavaScript and React development. I'm currently expanding my skills into **Node.js, Express, databases, and backend development**, while building a strong foundation for my long-term journey into **Artificial Intelligence**.
+My journey started with HTML and CSS and evolved into JavaScript and React development. I'm currently expanding my skills into **Node.js, Express, databases, and backend development**.
 
 I believe in learning by building — turning ideas into real projects, solving problems, and continuously improving my skills.
 
@@ -64,47 +64,11 @@ A modern React-based online bookstore and library application.
 
 ---
 
-### 📰 Nova News
-
-A responsive news application built with React.
-
-**Highlights:**
-- 📰 News categories
-- 🔍 Search functionality
-- 📄 Pagination
-- 🌤️ Weather section
-- 🌓 Theme switching
-- 📱 Responsive layout
-
-**Tech:** React · JavaScript · MUI · Bootstrap · REST APIs
-
----
-
 ### 💎 Diamond Shop
 
 A responsive e-commerce landing page built from scratch.
 
 **Tech:** HTML · CSS · JavaScript · Bootstrap
-
----
-
-## 📈 My Learning Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-Modern UI & Component Libraries
-     ↓
-Node.js & Express
-     ↓
-MongoDB & Backend Development
-     ↓
-Artificial Intelligence 🤖
-```
 
 ---
 
