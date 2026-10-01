@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##👩🏻 About Me
 
 I'm a **Frontend Developer** who enjoys transforming ideas into clean, interactive, and responsive web experiences.
 
