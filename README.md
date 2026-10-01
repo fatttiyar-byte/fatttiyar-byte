@@ -1,122 +1,189 @@
-# 👋 Hi, I'm Fatemeh
+# 👋 Hey, I'm Fatemeh
 
 ### Frontend Developer · React.js · JavaScript · Node.js 
 
-I’m a passionate developer focused on building **modern, responsive, and user-friendly web applications**.
-
-My journey started with HTML and CSS and evolved into JavaScript and React development. I'm currently expanding my skills into **Node.js, Express, databases, and backend development**.
-
-I believe in learning by building — turning ideas into real projects, solving problems, and continuously improving my skills.
-
----
-
-## 🚀 What I'm Working On
-
-- ⚛️ Building modern applications with **React.js**
-- 🟨 Strengthening my **JavaScript** fundamentals
-- 🟢 Learning **Node.js & Express.js**
-- 🗄️ Exploring **MongoDB & REST APIs**
-- 🎨 Creating clean and responsive interfaces
-- 🤖 Exploring the connection between **Web Development & AI**
-
----
-
-## 🧰 Tech Stack
-
-**Frontend**
-
-`HTML5` · `CSS3` · `JavaScript` · `React.js`
-
-**UI & Styling**
-
-`Material UI` · `Bootstrap` · `Tailwind CSS`
-
-**Backend**
-
-`Node.js` · `Express.js`
-
-**Database**
-
-`MongoDB`
-
-**Tools**
-
-`Git` · `GitHub` · `Vite` · `VS Code`
-
----
-
-## 🌟 Featured Projects
-
-### 📚 Smart Library
-
-A modern React-based online bookstore and library application.
-
-**Highlights:**
-- 🔎 Book search & filtering
-- ❤️ Favorites
-- 🛒 Shopping cart
-- 💾 Local storage
-- 📱 Responsive design
-- 🎨 Material UI interface
-- 🤖 Interactive book assistant
-
-**Tech:** React · JavaScript · MUI · Bootstrap
-
----
-
-### 💎 Diamond Shop
-
-A responsive e-commerce landing page built from scratch.
-
-**Tech:** HTML · CSS · JavaScript · Bootstrap
-
----
-
-## 🎯 Goals
-
-- Build production-ready React applications
-- Become a strong Frontend Developer
-- Master backend development with Node.js
-- Learn database architecture and API design
-- Improve problem-solving and software engineering skills
-- Explore Artificial Intelligence and Machine Learning
-- Build meaningful real-world projects
-
----
-
-## 💡 Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve**
-
-Every project is an opportunity to learn something new.
-
-I don't just want to write code — I want to understand **why it works, how it can be improved, and how it can solve real problems.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatttiyar-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatttiyar-byte&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fatttiyar-byte&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🧑‍💻 About Me
 
-I'm interested in **web development, open-source projects, collaboration, and learning from other developers.**
+I'm a **Frontend Developer** who enjoys transforming ideas into clean, interactive, and responsive web experiences.
+
+My primary focus is **JavaScript and React.js**, with a growing focus on backend development using **Node.js and Express.js**.
+
+
+```javascript
+const fatemeh = {
+    role: "Frontend Developer",
+    focus: ["React.js", "JavaScript", "Node.js"],
+    currentlyLearning: ["Backend Development", "MongoDB", "APIs"],
+    interestedIn: ["Artificial Intelligence", "Machine Learning"],
+    mindset: "Learn by building"
+};
+```
+
+---
+
+## ⚡ What I Do
+
+- ⚛️ Build scalable and responsive **React applications**
+- 🧩 Create reusable and maintainable UI components
+- 🎨 Design modern interfaces with **MUI, Bootstrap & Tailwind CSS**
+- 🔌 Work with **REST APIs**
+- 🟢 Develop backend applications with **Node.js & Express**
+- 🗄️ Learn and work with **MongoDB**
+- 🧠 Explore **AI & Machine Learning**
+- 🚀 Turn concepts into functional projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+</p>
+
+`Material UI`
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Work
+
+## 📚 Smart Library
+
+A modern **React-based digital bookstore and library platform** designed with a focus on user experience and interactive functionality.
+
+**Key Features**
+
+- 🔎 Intelligent book search & filtering
+- 📚 Genre-based browsing
+- ❤️ Favorites management
+- 🛒 Shopping cart
+- 💾 Local storage persistence
+- 🤖 Interactive book assistant
+- 📱 Responsive design
+- 🎨 Modern Material UI interface
+
+**Built with**
+
+`React` `JavaScript` `MUI` `Bootstrap`
+
+
+
+---
+
+## 💎 Diamond Shop
+
+A responsive e-commerce interface developed from scratch with a focus on clean layout, responsive design, and practical frontend implementation.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+# 📈 Current Learning Path
+
+```text
+                    WEB DEVELOPMENT
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+          FRONTEND                    BACKEND
+             │                           │
+      JavaScript / React          Node.js / Express
+             │                           │
+        UI Architecture              REST APIs
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                        MongoDB
+                           │
+                           ▼
+                  Full-Stack Development
+                           │
+                           ▼
+                Artificial Intelligence
+```
+
+---
+
+# 🎯 2026 → 2027 Goals
+
+```text
+✓ Strengthen JavaScript fundamentals
+✓ Build advanced React applications
+→ Master Node.js & Express
+→ Improve database knowledge
+→ Build full-stack applications
+→ Learn software architecture
+→ Explore AI & Machine Learning
+→ Build AI-powered web applications
+```
+
+---
+
+# 🧠 How I Learn
+
+I believe development is not about memorizing syntax.
+
+It's about understanding problems, building solutions, debugging mistakes, and continuously improving.
+
+> **Build. Break. Debug. Understand. Improve.**
+
+Every project I build is part of a larger journey toward becoming a stronger software developer.
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatttiyar-byte&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatttiyar-byte&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatttiyar-byte&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="left">
   <a href="https://github.com/fatttiyar-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Fatttiyar--byte-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <strong>Turning ideas into interfaces, and interfaces into experiences.</strong>
   <br/>
-  <sub>Always learning. Always building. Always improving.</sub>
+  <br/>
+  <sub>Currently learning. Constantly building. Always improving.</sub>
 </p>
