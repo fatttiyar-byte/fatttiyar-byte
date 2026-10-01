@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fatemeh
+# 👋🏻 Hey, I'm Fatemeh
 
 ### Frontend Developer · React.js · JavaScript · Node.js 
 
