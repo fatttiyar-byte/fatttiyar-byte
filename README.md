@@ -28,14 +28,10 @@ const fatemeh = {
 
 ## ⚡ What I Do
 
-- ⚛️ Build scalable and responsive **React applications**
-- 🧩 Create reusable and maintainable UI components
-- 🎨 Design modern interfaces with **MUI, Bootstrap & Tailwind CSS**
-- 🔌 Work with **REST APIs**
+- ⚛️ Build scalable and responsive **website**
+- 🎨 Design modern interfaces with **MUI, Bootstrap & Tailwind CSS , React**
 - 🟢 Develop backend applications with **Node.js & Express**
-- 🗄️ Learn and work with **MongoDB**
-- 🧠 Explore **AI & Machine Learning**
-- 🚀 Turn concepts into functional projects
+
 
 ---
 
