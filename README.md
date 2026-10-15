@@ -1,63 +1,69 @@
-# Hi there, I'm Fatemeh 
+# 👋 Hey, I'm Fatemeh Yar!
 
-### Frontend Developer | Aspiring Full-Stack Developer
+### Frontend Developer | React.js | JavaScript
 
-I’m a passionate developer who enjoys building modern, responsive, and user-friendly web applications. I love exploring new technologies, solving problems, and continuously improving my development skills.
+I'm a Frontend Developer passionate about building clean, responsive, and interactive web experiences. I enjoy transforming ideas into practical interfaces and continuously improving my development skills.
 
-Currently, I'm expanding my knowledge of backend development, databases, and software architecture to become a well-rounded full-stack developer.
-
-- 💻 Focused on building modern web applications
-- ⚛️ Working with React and TypeScript
-- 🎨 Passionate about clean UI, responsive design, and user experience
-- 🛠️ Learning Node.js, Express.js, and MongoDB
-- 📚 Always learning, building, and improving
-- 🎯 Goal: Become a skilled Full-Stack Developer and explore Artificial Intelligence
+- ⚛️ Focused on **JavaScript and React.js**
+- 🎨 Interested in modern UI development and responsive design
+- 🛠️ Currently learning **Node.js, Express.js, and backend development**
+- 🗄️ Exploring database design and REST API development
+- 🚀 Always learning, building, and improving
 
 ---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
-</p>
+## 👩🏻‍💻 About Me
 
+```javascript
+const fatemeh = {
+  role: "Frontend Developer",
+  frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB"],
+  currentlyLearning: [
+    "Backend Development",
+    "REST APIs",
+    "Database Design"
+  ],
+  goal: "Become a skilled Full-Stack Developer"
+};
+```
 
- Backend
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-</p>
+## 🛠️ Technologies & Tools
 
- 
-Database
+### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
 </p>
 
-
-Development Tools
+### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
 </p>
 
- Tools & Workflow
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+</p>
+
+### 🔧 Tools & Version Control
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
@@ -69,86 +75,62 @@ Development Tools
 
 ---
 
- Featured Projects
+## 🚀 Featured Projects
 
 ### 📚 Smart Library
 
-A book library application focused on presenting books in a clean, organized, and user-friendly interface.
+A React-based digital bookstore and library interface focused on usability and interactive features.
 
-**Technologies:** React, JavaScript, Material UI
+- 🔎 Book search and filtering
+- 📖 Genre-based browsing
+- ❤️ Favorites management
+- 🛒 Shopping cart
+- 💾 Local storage persistence
+- 🤖 Interactive book assistant
+- 📱 Responsive user interface
 
-### 📰 Nova News
-
-A responsive news application featuring category-based browsing, search functionality, and a modern interface.
-
-**Technologies:** React, JavaScript, Bootstrap, Material UI
+**Technologies:** React · JavaScript · Material UI · Bootstrap
 
 ### 💎 Diamond Shop
 
-A frontend shopping experience designed with a focus on visual presentation, responsive layouts, and modern UI.
+A responsive e-commerce frontend project designed to provide a clean shopping experience across different screen sizes.
 
-**Technologies:** React, JavaScript, CSS
+**Technologies:** HTML · CSS · JavaScript · Bootstrap
 
-### 🎵 Spotify Microservices
+🔗 [View Diamond Shop](https://fatttiyar-byte.github.io/dimondshop/)
 
-A collaborative learning project exploring backend development, authentication, database integration, and microservices architecture.
+### 📰 Nova News
 
-**Technologies:** Node.js, Express.js, TypeScript, MongoDB
+A React-based news application featuring category navigation, responsive layouts, and a user-friendly interface.
 
----
+**Technologies:** React · JavaScript · Bootstrap · Material UI
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatttiyar-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatttiyar-byte&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fatttiyar-byte&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+🔗 [View News Project](https://fatttiyar-byte.github.io/News-react1/)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns and reusable components
-- TypeScript for scalable applications
-- Tailwind CSS and modern styling techniques
-- RESTful APIs and backend development
+- Node.js and Express.js
+- RESTful API development
+- MongoDB and data modeling
 - Authentication and authorization
-- MongoDB and database design
-- Microservices architecture
-- Exploring Artificial Intelligence
+- Full-stack application architecture
 
 ---
 
-## 🎯 My Development Philosophy
-
-> Learn continuously. Build consistently. Improve with every project.
-
-I believe the best way to grow as a developer is to turn knowledge into practical projects, learn from mistakes, and keep exploring new ideas.
-
----
-
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/fatttiyar-byte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fatttiyar-byte?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 💜</b>
+  <i>Turning ideas into interfaces, and interfaces into experiences.</i>
   <br />
-  <i>Always curious. Always coding. Always growing.</i>
+  <b>Currently learning. Constantly building. Always improving. 🚀</b>
 </p>
-
-
