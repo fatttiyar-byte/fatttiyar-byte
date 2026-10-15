@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fatemeh | Frontend Developer</title>
-    <!-- لینک به آیکون‌های Devicon -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+    <!-- Devicon CDN - نسخه پایدار -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     
     <style>
         /* ===== RESET & BASE ===== */
@@ -16,8 +16,8 @@
         }
 
         body {
-            background-color: #0d1117; /* رنگ پس‌زمینه تیره گیت‌هاب */
-            color: #c9d1d9; /* رنگ متن اصلی */
+            background-color: #0d1117;
+            color: #c9d1d9;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.6;
             padding: 40px 20px;
@@ -89,11 +89,12 @@
             overflow-x: auto;
             margin: 20px 0;
             line-height: 1.5;
+            direction: ltr;
+            text-align: left;
         }
 
         .code-block .key { color: #79c0ff; }
         .code-block .string { color: #a5d6ff; }
-        .code-block .bracket { color: #ff7b72; }
 
         /* ===== LISTS ===== */
         ul {
@@ -147,6 +148,7 @@
             justify-content: center;
             transition: all 0.2s ease;
             cursor: pointer;
+            padding: 10px;
         }
 
         .icon-box:hover {
@@ -157,7 +159,16 @@
         }
 
         .icon-box i {
-            font-size: 28px;
+            font-size: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .icon-box svg {
+            width: 32px;
+            height: 32px;
+            display: block;
         }
 
         /* ===== ICON COLORS ===== */
@@ -166,12 +177,9 @@
         .icon-react { color: #61dafb; }
         .icon-vite { color: #646cff; }
         .icon-bootstrap { color: #7952b3; }
-        .icon-mui { color: #007fff; }
         .icon-node { color: #339933; }
-        .icon-express { color: #ffffff; }
         .icon-mongo { color: #47a248; }
         .icon-git { color: #f05032; }
-        .icon-github { color: #ffffff; }
         .icon-vscode { color: #007acc; }
 
         /* ===== PROJECT CARDS ===== */
@@ -221,10 +229,12 @@
 
         /* ===== RESPONSIVE ===== */
         @media (max-width: 600px) {
+            body { padding: 20px 15px; }
             h1 { font-size: 1.6rem; }
             h2 { font-size: 1.2rem; }
-            .icon-box { width: 48px; height: 48px; }
-            .icon-box i { font-size: 24px; }
+            .icon-box { width: 48px; height: 48px; padding: 8px; }
+            .icon-box i { font-size: 26px; }
+            .icon-box svg { width: 26px; height: 26px; }
         }
     </style>
 </head>
@@ -276,8 +286,12 @@
             <div class="tech-category-title">UI & Styling</div>
             <div class="icon-grid">
                 <div class="icon-box" title="Bootstrap"><i class="devicon-bootstrap-plain icon-bootstrap"></i></div>
-                <!-- Material UI به عنوان آیکون درآمده است -->
-                <div class="icon-box" title="Material UI"><i class="devicon-materialui-plain icon-mui"></i></div>
+                <!-- Material UI - SVG مستقیم -->
+                <div class="icon-box" title="Material UI">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#007fff">
+                        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5-10-5-10 5zM12 22l10-5-10-5-10 5 10 5z" opacity="0.7"/>
+                    </svg>
+                </div>
             </div>
         </div>
 
@@ -286,7 +300,12 @@
             <div class="tech-category-title">Backend & Database</div>
             <div class="icon-grid">
                 <div class="icon-box" title="Node.js"><i class="devicon-nodejs-plain icon-node"></i></div>
-                <div class="icon-box" title="Express"><i class="devicon-express-original icon-express"></i></div>
+                <!-- Express - SVG مستقیم -->
+                <div class="icon-box" title="Express">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#ffffff">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                    </svg>
+                </div>
                 <div class="icon-box" title="MongoDB"><i class="devicon-mongodb-plain icon-mongo"></i></div>
             </div>
         </div>
@@ -296,7 +315,12 @@
             <div class="tech-category-title">Development Tools</div>
             <div class="icon-grid">
                 <div class="icon-box" title="Git"><i class="devicon-git-plain icon-git"></i></div>
-                <div class="icon-box" title="GitHub"><i class="devicon-github-original icon-github"></i></div>
+                <!-- GitHub - SVG مستقیم -->
+                <div class="icon-box" title="GitHub">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#ffffff">
+                        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+                    </svg>
+                </div>
                 <div class="icon-box" title="VS Code"><i class="devicon-vscode-plain icon-vscode"></i></div>
             </div>
         </div>
