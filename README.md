@@ -84,6 +84,12 @@ A modern React-based digital bookstore and library interface designed to provide
 
 **Tech Stack:** React · JavaScript · Material UI · Bootstrap
 
+<p align="left">
+  <a href="https://library-smart.surge.sh/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Smart%20Library-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Smart Library Live Demo" />
+  </a>
+</p>
+
 ### 💎 Diamond Shop
 
 A responsive e-commerce frontend project built with a focus on clean layouts and practical user interface development.
