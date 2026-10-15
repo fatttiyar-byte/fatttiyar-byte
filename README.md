@@ -1,4 +1,4 @@
-<p align="center">Fatemeh Yarahmadi</p>
+<h3 align="center">Fatemeh Yarahmadi</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
