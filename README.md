@@ -1,7 +1,6 @@
 # Hi, I'm Fatemeh Yar 👋
 
-### Frontend Developer | React.js | JavaScript
-
+### Frontend Developer 
 I build responsive, interactive, and user-focused web applications. I'm passionate about clean code, thoughtful UI design, and continuously improving my development skills.
 
 Currently expanding my knowledge of backend development, REST APIs, and database management with Node.js, Express.js, and MongoDB.
