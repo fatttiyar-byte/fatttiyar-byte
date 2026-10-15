@@ -1,4 +1,4 @@
-# Hi there, I'm Fatemeh 👋
+# Hi there, I'm Fatemeh 
 
 ### Frontend Developer | Aspiring Full-Stack Developer
 
