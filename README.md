@@ -1,25 +1,33 @@
 # 👋 Hey, I'm Fatemeh Yar!
 
-### Frontend Developer | React.js | JavaScript
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+JavaScript;Learning+Node.js+%26+Backend+Development;Building+Something+New+Every+Day" alt="Typing SVG" />
+</p>
 
-I'm a Frontend Developer passionate about building clean, responsive, and interactive web experiences. I enjoy transforming ideas into practical interfaces and continuously improving my development skills.
-
-- ⚛️ Focused on **JavaScript and React.js**
-- 🎨 Interested in modern UI development and responsive design
-- 🛠️ Currently learning **Node.js, Express.js, and backend development**
-- 🗄️ Exploring database design and REST API development
-- 🚀 Always learning, building, and improving
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-58A6FF?style=for-the-badge" alt="Frontend Development" />
+  <img src="https://img.shields.io/badge/Learning-Backend-238636?style=for-the-badge" alt="Backend Development" />
+</p>
 
 ---
 
 ## 👩🏻‍💻 About Me
+
+I'm a **Frontend Developer** passionate about building modern, responsive, and interactive web experiences.
+
+- ⚛️ Focused on JavaScript and React.js
+- 🎨 Interested in clean UI and responsive design
+- 🟢 Learning backend development with Node.js and Express.js
+- 🗄️ Exploring MongoDB and REST API development
+- 🚀 Working toward becoming a Full-Stack Developer
 
 ```javascript
 const fatemeh = {
   role: "Frontend Developer",
   frontend: ["HTML5", "CSS3", "JavaScript", "React"],
   backend: ["Node.js", "Express.js"],
-  databases: ["MongoDB"],
+  database: ["MongoDB"],
+  tools: ["Git", "GitHub", "VS Code"],
   currentlyLearning: [
     "Backend Development",
     "REST APIs",
@@ -36,41 +44,25 @@ const fatemeh = {
 ### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="HTML CSS JavaScript TypeScript React Bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
 
 ### 🔧 Tools & Version Control
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub Visual Studio Code" />
 </p>
 
 ---
@@ -79,43 +71,71 @@ const fatemeh = {
 
 ### 📚 Smart Library
 
-A React-based digital bookstore and library interface focused on usability and interactive features.
+A modern React-based digital bookstore and library interface designed to provide an interactive browsing experience.
 
+**Features**
 - 🔎 Book search and filtering
-- 📖 Genre-based browsing
+- 📚 Genre-based browsing
 - ❤️ Favorites management
 - 🛒 Shopping cart
 - 💾 Local storage persistence
 - 🤖 Interactive book assistant
-- 📱 Responsive user interface
+- 📱 Responsive interface
 
-**Technologies:** React · JavaScript · Material UI · Bootstrap
+**Tech Stack:** React · JavaScript · Material UI · Bootstrap
 
 ### 💎 Diamond Shop
 
-A responsive e-commerce frontend project designed to provide a clean shopping experience across different screen sizes.
+A responsive e-commerce frontend project built with a focus on clean layouts and practical user interface development.
 
-**Technologies:** HTML · CSS · JavaScript · Bootstrap
+**Tech Stack:** HTML · CSS · JavaScript · Bootstrap
 
-🔗 [View Diamond Shop](https://fatttiyar-byte.github.io/dimondshop/)
+<p align="left">
+  <a href="https://fatttiyar-byte.github.io/dimondshop/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Diamond Shop Demo" />
+  </a>
+</p>
 
 ### 📰 Nova News
 
-A React-based news application featuring category navigation, responsive layouts, and a user-friendly interface.
+A React-based news application featuring category navigation and a responsive interface.
 
-**Technologies:** React · JavaScript · Bootstrap · Material UI
+**Tech Stack:** React · JavaScript · Bootstrap · Material UI
 
-🔗 [View News Project](https://fatttiyar-byte.github.io/News-react1/)
+<p align="left">
+  <a href="https://fatttiyar-byte.github.io/News-react1/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nova News Demo" />
+  </a>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Node.js and Express.js
-- RESTful API development
-- MongoDB and data modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Learning-FFFFFF?style=flat-square&logo=express&logoColor=black" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Practicing-58A6FF?style=flat-square" alt="REST APIs" />
+</p>
+
+- Backend architecture and API development
 - Authentication and authorization
-- Full-stack application architecture
+- Database modeling
+- Full-stack application development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatttiyar-byte&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatttiyar-byte&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fatttiyar-byte&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
@@ -123,11 +143,15 @@ A React-based news application featuring category navigation, responsive layouts
 
 <p align="left">
   <a href="https://github.com/fatttiyar-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=150&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
+</p>
 
 <p align="center">
   <i>Turning ideas into interfaces, and interfaces into experiences.</i>
